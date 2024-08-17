@@ -1,4 +1,4 @@
-# Summary of Exploratory Data Analysis (EDA)
+# Summary of Carbon Emissions Analysis
 This exploratory data analysis (EDA) investigates a dataset containing historical emissions data from various entities, including state-owned and investor-owned organisations, across different commodities such as oil, natural gas, and coal. The analysis aims to understand the distribution of emissions and production values, identify key contributors to global emissions, and uncover trends over time.
 
 **Key Insights:**
